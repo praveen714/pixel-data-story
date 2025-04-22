@@ -48,7 +48,7 @@ const Navbar = () => {
           }}
           className="text-2xl font-bold text-gradient cursor-pointer"
         >
-          DataViz
+          Praveen Kumar Nagata
         </a>
 
         {/* Desktop Menu */}

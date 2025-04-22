@@ -18,7 +18,7 @@ const Footer = () => {
               }}
               className="text-xl font-bold text-gradient cursor-pointer"
             >
-              DataViz
+              Praveen Kumar Nagata
             </a>
             <p className="text-sm text-foreground/70 mt-1">
               Turning Data into Decisions
